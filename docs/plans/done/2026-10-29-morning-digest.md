@@ -89,6 +89,6 @@ Done when: the preview link no longer shows the lane marker.
 | 4 | board: link nights to their digest | #1 | pi · glm-5p3-flash · high | 2026-10-31 |
 | 5 | digest: route tests | #1 | pi · glm-5p3-flash · high | 2026-10-31 |
 | 6 | preview: HTML copy for review | #2 | pi · deepseek-v4p1-flash · high | 2026-10-31 |
-| 7 | preview: remove the lane marker | #6 | pi · glm-5p3-flash · high | 2026-10-31 |
+| 7 | preview: remove the lane marker | #6 | pi · deepseek-v4p1-flash · high | 2026-10-31 |
 
 The preview was reviewed, then its lane marker was removed the same day. See ADR 0003.
